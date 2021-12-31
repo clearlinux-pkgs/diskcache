@@ -1,5 +1,5 @@
 PKG_NAME := diskcache
-URL = https://files.pythonhosted.org/packages/6d/0b/6cb2f669c0eedceeaec4d1e45c97799a4c5ca78b560423d65f7a5d63e1bf/diskcache-5.3.0.tar.gz
+URL = https://files.pythonhosted.org/packages/c7/34/d23a9bc5b2a84917879b977f00fdb97a7700b186a32bf7b0cf5f29f4c2d9/diskcache-5.4.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
